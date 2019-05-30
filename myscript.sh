@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COUNT=$1
+COUNT=1100
 echo "$COUNT"
 
 formatdb -p F -o T -i Escherichia_coli_str_k_12_substr_mg1655.ASM584v2.cds.all.fa
